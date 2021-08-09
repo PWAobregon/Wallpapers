@@ -1,1 +1,20 @@
-
+[
+  {
+    "name": "DONA 1",
+    "author": "Racka Nurdin",
+    "url": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_1.png",
+    "thumbnail": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_1.png",
+    "collections": "DONA",
+    "downloadable": true,
+    "dimensions": "2384 x 4934 px"
+  },
+  {
+    "name": "DONA",
+    "author": "Racka Nurdin",
+    "url": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_2.png",
+    "thumbnail": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_2.png",
+    "collections": "DONA",
+    "downloadable": true,
+    "dimensions": "2384 x 4934 px"
+  }
+]
