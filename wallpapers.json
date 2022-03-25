@@ -9,6 +9,7 @@
       {
         "kind": "t3",
         "data": {
+          "post_hint": "self",
           "title": "DONA 1",
           "url": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_1.png",
           "thumbnail": "self",
@@ -19,6 +20,7 @@
         {
         "kind": "t3",
         "data": {
+          "post_hint": "self",
           "title": "DONA 2",
           "url": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_2.png",
           "thumbnail": "self",
