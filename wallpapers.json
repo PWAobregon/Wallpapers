@@ -1,23 +1,20 @@
-{
-  "kind": "Listing",
-  "data": {
-    "after": "t3_thm3dn",
-    "dist": 2,
-    "modhash": "",
-    "geo_filter": null,
-    "children": [
-        {
-        "kind": "t3",
-        "data": {
-          "post_hint": "image",
-          "title": "DONA 2",
-          "url": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_2.jpg",
-          "thumbnail": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_2_.jpg",
-          "author": "Racka Nurdin",
-          "created": 1
-        }
-      }
-    ],
-    "before": null
+[
+  {
+    "name": "DONA 1",
+    "author": "Racka Nurdin",
+    "url": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_1.png",
+    "thumbnail": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_1.png",
+    "collections": "DONA",
+    "downloadable": true,
+    "dimensions": "2384 x 4934 px"
+  },
+  {
+    "name": "DONA",
+    "author": "Racka Nurdin",
+    "url": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_2.png",
+    "thumbnail": "https://raw.githubusercontent.com/PWAobregon/Wallpapers/main/dona_spotter_20210809_2.png",
+    "collections": "DONA",
+    "downloadable": true,
+    "dimensions": "2384 x 4934 px"
   }
-}
+]
